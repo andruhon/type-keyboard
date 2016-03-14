@@ -1,0 +1,29 @@
+{
+  "name": "type-keyboard",
+  "version": "0.1.0",
+  "description": "Simple onscreen keyboard in \"vanila\" TypeScript, with no dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andruhon/type-keyboard.git"
+  },
+  "keywords": [
+    "virtual",
+    "keyboard",
+    "onscreen",
+    "keyboard"
+  ],
+  "author": "Andrew Kondratev <andrew@kondratev.pro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andruhon/type-keyboard/issues"
+  },
+  "homepage": "https://github.com/andruhon/type-keyboard#readme",
+  "devDependencies": {
+    "typescript": "^1.8.7"
+  }
+}
